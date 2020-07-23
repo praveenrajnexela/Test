@@ -1,0 +1,646 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1807295500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "navigate to given URL",
+            "match": {
+              "location": "Steps.navigate_to_given_URL()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3028715634,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1108118500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "click on signin link",
+            "match": {
+              "location": "Steps.click_on_signin_link()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3081799388,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-07-14T13:43:36.291Z",
+        "before": [
+          {
+            "result": {
+              "duration": 9344062494,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Base.BrowsersetUp(Scenario)"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Tomcat service (URL)",
+        "description": "",
+        "id": "lynx-sanity-suite;tomcat-service-(url)",
+        "after": [
+          {
+            "result": {
+              "duration": 1045434808,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Base.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 21337184,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "title of the page should be \"Login | DrySign\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login | DrySign\"",
+                  "offset": 28
+                }
+              ],
+              "location": "Steps.titile_of_the_page_should_be(String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3015186000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1639876360,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "navigate to given URL",
+            "match": {
+              "location": "Steps.navigate_to_given_URL()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3028773120,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 855014418,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "click on signin link",
+            "match": {
+              "location": "Steps.click_on_signin_link()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3018167660,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-07-14T13:43:58.800Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5761933066,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Base.BrowsersetUp(Scenario)"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "ExelaAuth service (Login)",
+        "description": "",
+        "id": "lynx-sanity-suite;exelaauth-service-(login)",
+        "after": [
+          {
+            "result": {
+              "duration": 988703662,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Base.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 712204646,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "enter username and password",
+            "match": {
+              "location": "Steps.enter_username_as_and_password_as()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3014609066,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1102451338,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "click on signin button",
+            "match": {
+              "location": "Steps.click_on_signin_button()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3018234900,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1093082378,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "enter OTP \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"123456\"",
+                  "offset": 10
+                }
+              ],
+              "location": "Steps.enter_OTP(String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3010975536,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 170354094,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "click submit button",
+            "match": {
+              "location": "Steps.click_submit_button()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3011571458,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 14681954,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "title of the page should be \"Dashboard | DrySign\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Dashboard | DrySign\"",
+                  "offset": 28
+                }
+              ],
+              "location": "Steps.titile_of_the_page_should_be(String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3010322640,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5303254422,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "logout",
+            "match": {
+              "location": "Steps.logout()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3012469190,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1281852050,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "navigate to given URL",
+            "match": {
+              "location": "Steps.navigate_to_given_URL()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3019870732,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 943679480,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "click on signin link",
+            "match": {
+              "location": "Steps.click_on_signin_link()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3024520566,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-07-14T13:44:40.594Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5148435358,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Base.BrowsersetUp(Scenario)"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "eFA service (Download)",
+        "description": "",
+        "id": "lynx-sanity-suite;efa-service-(download)",
+        "after": [
+          {
+            "result": {
+              "duration": 921322914,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Base.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 648573944,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "enter username and password",
+            "match": {
+              "location": "Steps.enter_username_as_and_password_as()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3010225116,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1067563988,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "click on signin button",
+            "match": {
+              "location": "Steps.click_on_signin_button()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3014577246,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1147041282,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "enter OTP \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"123456\"",
+                  "offset": 10
+                }
+              ],
+              "location": "Steps.enter_OTP(String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3012470730,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 221667534,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "click submit button",
+            "match": {
+              "location": "Steps.click_submit_button()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3013232444,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1111322926,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "click on completed documents overview option",
+            "match": {
+              "location": "Steps.click_on_completed_documents_overview_option()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3023532496,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 260320330,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "click on plus icon",
+            "match": {
+              "location": "Steps.click_on_plus_icon()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3015102336,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 192341098,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "download the document",
+            "match": {
+              "location": "Steps.download_the_document()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3010205100,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5277595906,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "logout",
+            "match": {
+              "location": "Steps.logout()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 3012942436,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Base.waitToPageRender(Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Lynx Sanity Suite",
+    "description": "",
+    "id": "lynx-sanity-suite",
+    "keyword": "Feature",
+    "uri": "file:FeatureFiles/DrySign.feature",
+    "tags": []
+  }
+]

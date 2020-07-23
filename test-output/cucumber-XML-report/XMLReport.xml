@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="112.70845">
+<testcase classname="Lynx Sanity Suite" name="Tomcat service (URL)" time="22.503619">
+<system-out><![CDATA[Given navigate to given URL.................................................passed
+Then click on signin link...................................................passed
+Then title of the page should be "Login | DrySign"..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Lynx Sanity Suite" name="ExelaAuth service (Login)" time="41.791456">
+<system-out><![CDATA[Given navigate to given URL.................................................passed
+Then click on signin link...................................................passed
+Then enter username and password............................................passed
+And click on signin button..................................................passed
+And enter OTP "123456"......................................................passed
+And click submit button.....................................................passed
+Then title of the page should be "Dashboard | DrySign"......................passed
+And logout..................................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Lynx Sanity Suite" name="eFA service (Download)" time="48.413375">
+<system-out><![CDATA[Given navigate to given URL.................................................passed
+Then click on signin link...................................................passed
+Then enter username and password............................................passed
+And click on signin button..................................................passed
+And enter OTP "123456"......................................................passed
+And click submit button.....................................................passed
+Then click on completed documents overview option...........................passed
+And click on plus icon......................................................passed
+Then download the document..................................................passed
+And logout..................................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

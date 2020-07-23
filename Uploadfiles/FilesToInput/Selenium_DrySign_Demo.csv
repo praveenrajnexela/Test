@@ -1,0 +1,6 @@
+SlNo,Product,URL,Environment,TCID,TestCaseDescription,Browser,Result,Investigations,TestStartedTime,TestEndedTime,Timetakentofinish,
+1,DrySign,icdemo-drysign.exela.global,Demo,TC002,ExelaAuth service (Login),chrome,PASSED,,2020-07-14 07:16:52 AM,2020-07-14 07:17:27 AM,00:00:35,
+2,DrySign,icdemo-drysign.exela.global,Demo,TC003,eFA service (Download),chrome,PASSED,,2020-07-14 07:17:33 AM,2020-07-14 07:18:15 AM,00:00:42,
+3,DrySign,icdemo-drysign.exela.global,Demo,TC001,Tomcat service (URL),chrome,PASSED,,2020-07-14 09:43:45 AM,2020-07-14 09:43:57 AM,00:00:12,
+4,DrySign,icdemo-drysign.exela.global,Demo,TC002,ExelaAuth service (Login),chrome,PASSED,,2020-07-14 09:44:04 AM,2020-07-14 09:44:39 AM,00:00:35,
+5,DrySign,icdemo-drysign.exela.global,Demo,TC003,eFA service (Download),chrome,PASSED,,2020-07-14 09:44:45 AM,2020-07-14 09:45:28 AM,00:00:43,

@@ -1,0 +1,51 @@
+2020-05-26 16:43:15,487 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-26 16:43:15,492 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-26 16:43:17,352 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-26 16:43:17,397 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-26 16:43:24,744 - framework.Browser -INFO - Chrome Browser is Started 6446285
+2020-05-26 16:43:43,138 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-26 16:43:43,138 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-26 16:43:44,004 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-26 16:43:44,101 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-26 16:43:48,418 - framework.Browser -INFO - Chrome Browser is Started 28517811
+2020-05-26 16:44:34,303 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-26 16:44:34,303 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-26 16:44:35,516 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-05-26 16:44:35,537 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-26 16:44:40,825 - framework.Browser -INFO - Chrome Browser is Started 10887831
+2020-05-26 16:45:34,009 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-05-26 16:45:34,013 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-26 16:47:08,096 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-26 16:47:08,101 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-26 16:47:09,872 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-26 16:47:09,875 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-26 16:47:18,587 - framework.Browser -INFO - Chrome Browser is Started 6446285
+2020-05-26 16:47:42,680 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-26 16:47:42,680 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-26 16:47:43,884 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-26 16:47:43,897 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-26 16:47:49,484 - framework.Browser -INFO - Chrome Browser is Started 16965686
+2020-05-26 16:48:31,469 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-26 16:48:31,469 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-26 16:48:32,414 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-05-26 16:48:32,420 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-26 16:48:36,282 - framework.Browser -INFO - Chrome Browser is Started 18263049
+2020-05-26 16:49:26,292 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-05-26 16:49:26,293 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-26 17:10:21,297 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-26 17:10:21,353 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-26 17:10:22,882 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-26 17:10:22,885 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-26 17:10:32,940 - framework.Browser -INFO - Chrome Browser is Started 6446285
+2020-05-26 17:10:52,334 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-26 17:10:52,335 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-26 17:10:53,231 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-26 17:10:53,234 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-26 17:10:57,268 - framework.Browser -INFO - Chrome Browser is Started 20074641
+2020-05-26 17:11:39,578 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-26 17:11:39,578 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-26 17:11:40,516 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-05-26 17:11:40,519 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-26 17:11:44,543 - framework.Browser -INFO - Chrome Browser is Started 33126585
+2020-05-26 17:12:38,499 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-05-26 17:12:38,500 - baseinit.Base -INFO - Scenario Status is: PASSED

@@ -1,0 +1,1677 @@
+2020-05-26 18:38:17,176 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-26 18:38:17,181 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-26 18:38:18,826 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-26 18:38:18,830 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-26 18:38:51,342 - framework.Browser -INFO - Chrome Browser is Started 6446285
+2020-05-27 15:21:35,017 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-27 15:21:35,052 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-27 16:03:12,434 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-27 16:03:12,479 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-27 16:03:56,225 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-27 16:03:56,228 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-27 16:03:57,447 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-27 16:03:57,460 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:03:58,005 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-05-27 16:03:58,098 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-27 16:03:58,098 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:03:58,108 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-05-27 16:03:58,142 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-27 16:03:58,142 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:03:58,152 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-05-27 16:05:33,634 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-27 16:05:33,638 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-27 16:05:35,147 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-27 16:06:30,078 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:07:00,172 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-27 16:07:00,177 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-27 16:07:02,651 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-27 16:07:02,653 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:07:22,178 - framework.Browser -INFO - Chrome Browser is Started 26878118
+2020-05-27 16:07:42,722 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-27 16:07:42,723 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-27 16:07:43,674 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-27 16:07:43,678 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:07:49,084 - framework.Browser -INFO - Chrome Browser is Started 4474776
+2020-05-27 16:08:02,922 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-27 16:08:02,923 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-27 16:08:03,898 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-27 16:08:03,899 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:08:09,057 - framework.Browser -INFO - Chrome Browser is Started 10897593
+2020-05-27 16:08:23,101 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-27 16:08:23,102 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-27 16:10:27,619 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-27 16:10:27,623 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-27 16:10:29,737 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-27 16:10:29,759 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:10:37,902 - framework.Browser -INFO - Chrome Browser is Started 26878118
+2020-05-27 16:10:53,156 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-27 16:10:53,156 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-27 16:10:54,111 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-27 16:10:54,112 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:10:59,145 - framework.Browser -INFO - Chrome Browser is Started 4474776
+2020-05-27 16:11:13,377 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-27 16:11:13,377 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-27 16:11:14,318 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-27 16:11:14,322 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:11:19,421 - framework.Browser -INFO - Chrome Browser is Started 29773987
+2020-05-27 16:17:37,631 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-27 16:17:37,680 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-27 16:17:40,558 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-27 16:17:40,590 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:17:55,361 - framework.Browser -INFO - Chrome Browser is Started 16395343
+2020-05-27 16:21:17,391 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-27 16:21:17,411 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-27 16:21:19,761 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-27 16:21:19,774 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:21:33,180 - framework.Browser -INFO - Chrome Browser is Started 26878118
+2020-05-27 16:21:51,990 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-27 16:21:51,990 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-27 16:21:54,015 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-27 16:21:54,019 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:22:01,189 - framework.Browser -INFO - Chrome Browser is Started 27649132
+2020-05-27 16:22:51,006 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-27 16:22:51,007 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-27 16:22:52,714 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-27 16:22:52,717 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:23:00,088 - framework.Browser -INFO - Chrome Browser is Started 28724180
+2020-05-27 16:24:02,013 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-27 16:24:02,014 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-27 16:28:24,335 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-27 16:28:24,394 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-27 16:28:26,812 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-27 16:28:26,831 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:28:36,911 - framework.Browser -INFO - Chrome Browser is Started 26878118
+2020-05-27 16:28:56,162 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-27 16:28:56,162 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-27 16:28:58,227 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-27 16:28:58,230 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:29:04,388 - framework.Browser -INFO - Chrome Browser is Started 27649132
+2020-05-27 16:29:27,379 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-27 16:29:27,379 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-27 16:29:30,221 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-27 16:29:30,225 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:29:40,163 - framework.Browser -INFO - Chrome Browser is Started 17394438
+2020-05-27 16:30:32,690 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-27 16:30:32,691 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-27 16:39:43,303 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-27 16:39:43,336 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-27 16:39:45,419 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-27 16:39:45,422 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:40:21,116 - framework.Browser -INFO - Chrome Browser is Started 26878118
+2020-05-27 16:40:51,199 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-27 16:40:51,199 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-27 16:40:53,428 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-27 16:40:53,432 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:41:00,817 - framework.Browser -INFO - Chrome Browser is Started 32647081
+2020-05-27 16:41:22,725 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-27 16:41:22,726 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-27 16:41:23,850 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-27 16:41:23,855 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:41:29,624 - framework.Browser -INFO - Chrome Browser is Started 10249685
+2020-05-27 16:42:29,373 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-27 16:42:29,417 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-27 16:42:29,902 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-27 16:42:29,907 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-27 16:42:31,953 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-27 16:42:31,956 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:42:43,477 - framework.Browser -INFO - Chrome Browser is Started 26878118
+2020-05-27 16:43:01,428 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-27 16:43:01,429 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-27 16:43:02,379 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-27 16:43:02,382 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:43:08,108 - framework.Browser -INFO - Chrome Browser is Started 21842086
+2020-05-27 16:43:30,080 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-27 16:43:30,080 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-27 16:43:31,086 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-27 16:43:31,087 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-27 16:43:38,161 - framework.Browser -INFO - Chrome Browser is Started 9917727
+2020-05-27 16:44:29,718 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-27 16:44:29,718 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-28 14:29:20,739 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 14:29:20,757 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 14:29:33,068 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-28 14:29:33,158 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 14:30:22,079 - framework.Browser -INFO - Chrome Browser is Started 26878118
+2020-05-28 14:31:01,998 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-28 14:31:01,999 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-28 14:31:07,851 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-28 14:31:07,854 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 14:31:15,361 - framework.Browser -INFO - Chrome Browser is Started 13595318
+2020-05-28 14:32:03,734 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-28 14:32:03,734 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-28 14:32:12,172 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 14:32:12,200 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 14:32:27,424 - framework.Browser -INFO - Chrome Browser is Started 10885570
+2020-05-28 14:33:24,254 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-28 14:33:24,255 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-28 14:48:16,191 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 14:48:16,202 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 14:48:20,582 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 14:48:20,604 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 14:48:40,726 - framework.Browser -INFO - Chrome Browser is Started 28574259
+2020-05-28 14:54:50,115 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 14:54:50,241 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 14:55:08,433 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 14:55:08,609 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 14:55:39,152 - framework.Browser -INFO - Chrome Browser is Started 17648952
+2020-05-28 14:57:26,112 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-28 14:57:26,134 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-28 15:06:07,238 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 15:06:07,310 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 15:06:14,398 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 15:06:14,401 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 15:06:42,393 - framework.Browser -INFO - Chrome Browser is Started 2877724
+2020-05-28 15:07:38,547 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-28 15:07:38,547 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-28 15:10:29,748 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 15:10:29,762 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 15:10:32,859 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 15:10:32,862 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 15:10:44,670 - framework.Browser -INFO - Chrome Browser is Started 6621523
+2020-05-28 15:11:40,035 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-28 15:11:40,163 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-28 15:13:03,227 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 15:13:03,232 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 15:13:06,701 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 15:13:06,703 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 15:13:26,957 - framework.Browser -INFO - Chrome Browser is Started 6621523
+2020-05-28 15:14:07,398 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-28 15:14:07,398 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-28 15:16:20,083 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 15:16:20,088 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 15:16:23,466 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 15:16:23,488 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 15:16:31,516 - framework.Browser -INFO - Chrome Browser is Started 6621523
+2020-05-28 15:17:20,222 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-28 15:17:20,222 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-28 15:25:39,800 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 15:25:39,882 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 15:25:43,992 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 15:25:44,012 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 15:26:02,726 - framework.Browser -INFO - Chrome Browser is Started 6621523
+2020-05-28 15:27:39,626 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-28 15:27:39,730 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-28 15:29:03,322 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 15:29:03,326 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 15:29:04,623 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 15:29:04,626 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 15:29:22,426 - framework.Browser -INFO - Chrome Browser is Started 6621523
+2020-05-28 15:30:29,970 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-28 15:30:29,971 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-28 15:34:10,909 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 15:34:10,931 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 15:34:12,614 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 15:34:12,617 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 15:34:27,002 - framework.Browser -INFO - Chrome Browser is Started 6621523
+2020-05-28 15:35:26,881 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-28 15:35:27,158 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-28 15:37:50,455 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 15:37:50,460 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 15:37:52,189 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 15:37:52,193 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 15:38:05,404 - framework.Browser -INFO - Chrome Browser is Started 28574259
+2020-05-28 15:41:25,294 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-05-28 15:45:30,825 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 15:45:30,862 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 15:45:32,392 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 15:45:32,396 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 15:45:46,695 - framework.Browser -INFO - Chrome Browser is Started 6621523
+2020-05-28 15:46:42,163 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-28 15:46:42,164 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-28 15:48:45,468 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 15:48:45,489 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 15:48:49,696 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 15:48:49,701 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 15:48:59,718 - framework.Browser -INFO - Chrome Browser is Started 17648952
+2020-05-28 15:55:29,861 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 15:55:29,908 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 15:55:31,235 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 15:55:31,237 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 15:55:53,797 - framework.Browser -INFO - Chrome Browser is Started 6621523
+2020-05-28 15:57:19,649 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-28 15:57:19,700 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-28 16:01:11,961 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-28 16:01:11,966 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-28 16:01:13,995 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-28 16:01:14,007 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 16:01:28,645 - framework.Browser -INFO - Chrome Browser is Started 26878118
+2020-05-28 16:01:48,211 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-28 16:01:48,211 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-28 16:01:51,608 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-28 16:01:51,612 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 16:02:05,261 - framework.Browser -INFO - Chrome Browser is Started 8353701
+2020-05-28 16:03:21,568 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-28 16:03:21,578 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-28 16:03:26,215 - baseinit.Base -INFO - Scenario Started: Read only document verification
+2020-05-28 16:03:26,217 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-28 16:03:33,038 - framework.Browser -INFO - Chrome Browser is Started 20958553
+2020-05-28 16:05:07,499 - baseinit.Base -INFO - Scenario Completed: Read only document verification
+2020-05-28 16:05:07,500 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 08:58:09,172 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 08:58:09,461 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 11:35:42,711 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 11:35:42,757 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 11:35:44,240 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 11:35:44,263 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 11:35:55,950 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-05-29 11:35:55,993 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-29 11:35:55,994 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 11:35:59,044 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-05-29 11:35:59,086 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-29 11:35:59,088 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 11:36:00,787 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-05-29 11:42:36,058 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 11:42:36,117 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 11:42:38,313 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 11:42:38,354 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 11:42:46,599 - framework.Browser -INFO - Chrome Browser is Started 20133755
+2020-05-29 11:58:14,418 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 11:58:14,434 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 11:58:15,988 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 11:58:16,014 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 11:58:25,747 - framework.Browser -INFO - Chrome Browser is Started 20133755
+2020-05-29 11:58:39,028 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 11:58:39,029 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 11:58:39,961 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-29 11:58:39,962 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 11:58:44,223 - framework.Browser -INFO - Chrome Browser is Started 30083494
+2020-05-29 11:58:52,387 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-29 11:58:52,387 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 11:58:53,247 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-29 11:58:53,250 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 11:58:57,233 - framework.Browser -INFO - Chrome Browser is Started 19811023
+2020-05-29 11:59:05,601 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-29 11:59:05,602 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 12:02:39,025 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 12:02:39,030 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 12:02:48,449 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 12:02:48,453 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 12:02:51,529 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 12:02:51,558 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:02:59,657 - framework.Browser -INFO - Chrome Browser is Started 2706458
+2020-05-29 12:04:21,220 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 12:04:21,225 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 12:04:23,790 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 12:04:23,792 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:04:37,288 - framework.Browser -INFO - Chrome Browser is Started 20133755
+2020-05-29 12:05:23,616 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 12:05:23,616 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 12:05:24,495 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-29 12:05:24,499 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:05:28,447 - framework.Browser -INFO - Chrome Browser is Started 14280254
+2020-05-29 12:06:22,505 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-29 12:06:22,506 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 12:06:23,397 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-29 12:06:23,399 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:06:28,510 - framework.Browser -INFO - Chrome Browser is Started 20255102
+2020-05-29 12:07:17,751 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-29 12:07:17,752 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 12:19:43,637 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 12:19:43,675 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 12:19:46,039 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 12:19:46,061 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:19:53,796 - framework.Browser -INFO - Chrome Browser is Started 31632785
+2020-05-29 12:20:40,452 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 12:20:40,452 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 12:20:41,348 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-29 12:20:41,350 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:20:45,221 - framework.Browser -INFO - Chrome Browser is Started 12659518
+2020-05-29 12:23:11,481 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 12:23:11,502 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 12:23:12,911 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 12:23:12,925 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:23:18,176 - framework.Browser -INFO - Chrome Browser is Started 20133755
+2020-05-29 12:24:02,533 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 12:24:02,533 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 12:24:04,432 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-29 12:24:04,436 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:24:08,155 - framework.Browser -INFO - Chrome Browser is Started 1318466
+2020-05-29 12:25:19,709 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-29 12:25:19,709 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 12:25:20,684 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-29 12:25:20,686 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:25:24,406 - framework.Browser -INFO - Chrome Browser is Started 33249339
+2020-05-29 12:26:13,326 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-29 12:26:13,328 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 12:28:31,554 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 12:28:31,558 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 12:28:32,871 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 12:28:32,874 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:28:37,160 - framework.Browser -INFO - Chrome Browser is Started 20133755
+2020-05-29 12:29:22,422 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 12:29:22,423 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 12:29:23,311 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-29 12:29:23,315 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:29:27,042 - framework.Browser -INFO - Chrome Browser is Started 587320
+2020-05-29 12:30:38,442 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-29 12:30:38,442 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 12:30:39,869 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-29 12:30:39,873 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:30:43,673 - framework.Browser -INFO - Chrome Browser is Started 27360230
+2020-05-29 12:31:31,694 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-29 12:31:31,695 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 12:33:53,984 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 12:33:53,992 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 12:33:55,687 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 12:33:55,690 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:34:01,795 - framework.Browser -INFO - Chrome Browser is Started 25474292
+2020-05-29 12:34:45,936 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 12:34:45,937 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 12:35:48,058 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 12:35:48,064 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 12:35:49,633 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 12:35:49,636 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:35:54,278 - framework.Browser -INFO - Chrome Browser is Started 25474292
+2020-05-29 12:38:52,029 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 12:38:52,029 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 12:41:34,041 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 12:41:34,051 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 12:41:35,801 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 12:41:35,804 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 12:41:41,355 - framework.Browser -INFO - Chrome Browser is Started 25474292
+2020-05-29 12:44:28,300 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 12:44:28,312 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 13:01:22,757 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 13:01:22,784 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 13:01:24,342 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 13:01:24,347 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 13:01:35,163 - framework.Browser -INFO - Chrome Browser is Started 18455656
+2020-05-29 13:01:57,966 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 13:01:57,967 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 13:03:45,273 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 13:03:45,277 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 13:03:46,752 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 13:03:46,754 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 13:03:51,351 - framework.Browser -INFO - Chrome Browser is Started 25474292
+2020-05-29 13:04:10,797 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 13:04:10,798 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 13:04:45,118 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 13:04:45,122 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 13:04:46,602 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 13:04:46,605 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 13:04:51,526 - framework.Browser -INFO - Chrome Browser is Started 25474292
+2020-05-29 13:07:18,538 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 13:07:18,539 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 13:14:19,978 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 13:14:19,983 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 13:14:21,794 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 13:14:21,798 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 13:14:30,274 - framework.Browser -INFO - Chrome Browser is Started 25474292
+2020-05-29 13:17:36,022 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 13:17:36,041 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 13:18:35,356 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 13:18:35,360 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 13:18:36,883 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 13:18:36,885 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 13:18:46,037 - framework.Browser -INFO - Chrome Browser is Started 25474292
+2020-05-29 13:21:28,790 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 13:21:28,794 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 13:21:30,282 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 13:21:30,284 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 13:21:37,907 - framework.Browser -INFO - Chrome Browser is Started 25474292
+2020-05-29 13:25:20,028 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 13:25:20,041 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 13:25:21,518 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 13:25:21,521 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 13:25:29,905 - framework.Browser -INFO - Chrome Browser is Started 25474292
+2020-05-29 13:27:57,373 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 13:27:57,377 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 13:27:58,866 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 13:27:58,869 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 13:28:04,808 - framework.Browser -INFO - Chrome Browser is Started 25474292
+2020-05-29 13:29:42,861 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 13:29:42,865 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 13:29:44,376 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 13:29:44,379 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 13:29:50,749 - framework.Browser -INFO - Chrome Browser is Started 25474292
+2020-05-29 13:32:31,203 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 13:32:31,204 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 13:34:19,408 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 13:34:19,413 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 13:34:20,791 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 13:34:20,794 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 13:34:25,818 - framework.Browser -INFO - Chrome Browser is Started 5893879
+2020-05-29 13:35:36,410 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 13:35:36,431 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 13:36:45,781 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 13:36:45,784 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 13:36:47,288 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 13:36:47,291 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 13:36:53,463 - framework.Browser -INFO - Chrome Browser is Started 25474292
+2020-05-29 13:38:45,890 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 13:38:45,890 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 14:03:06,945 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 14:03:06,982 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 14:03:10,157 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 14:03:10,180 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 14:03:47,828 - framework.Browser -INFO - Chrome Browser is Started 8958067
+2020-05-29 14:04:22,180 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 14:04:22,180 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 14:08:25,058 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 14:08:25,126 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 14:08:26,486 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 14:08:26,490 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 14:08:41,556 - framework.Browser -INFO - Chrome Browser is Started 20133755
+2020-05-29 14:10:07,538 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 14:10:07,611 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 14:10:12,427 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-29 14:10:12,431 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 14:10:29,993 - framework.Browser -INFO - Chrome Browser is Started 9053308
+2020-05-29 14:12:01,400 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-29 14:12:01,432 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 14:12:15,255 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-29 14:12:15,258 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 14:12:23,497 - framework.Browser -INFO - Chrome Browser is Started 25321638
+2020-05-29 14:13:40,768 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-29 14:13:40,773 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 14:23:29,880 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 14:23:29,911 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 14:23:31,268 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 14:23:31,273 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 14:23:43,121 - framework.Browser -INFO - Chrome Browser is Started 20133755
+2020-05-29 14:25:04,645 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 14:25:04,646 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 14:25:09,087 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-29 14:25:09,090 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 14:25:13,439 - framework.Browser -INFO - Chrome Browser is Started 23315535
+2020-05-29 14:26:18,928 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-29 14:26:18,928 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 14:26:21,332 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-29 14:26:21,335 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 14:26:27,991 - framework.Browser -INFO - Chrome Browser is Started 23240635
+2020-05-29 14:27:44,883 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-29 14:27:44,884 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 15:24:29,736 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 15:24:29,830 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 15:25:09,647 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 15:25:09,649 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 15:25:10,834 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 15:25:10,890 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 15:25:26,984 - framework.Browser -INFO - Chrome Browser is Started 16638730
+2020-05-29 15:26:42,857 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 15:26:42,857 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 15:26:45,220 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-29 15:26:45,222 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 15:26:49,688 - framework.Browser -INFO - Chrome Browser is Started 1655489
+2020-05-29 15:27:56,154 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-29 15:27:56,154 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 15:27:57,675 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-29 15:27:57,676 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 15:28:03,277 - framework.Browser -INFO - Chrome Browser is Started 27492551
+2020-05-29 15:29:20,190 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-29 15:29:20,191 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 15:32:55,292 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 15:32:55,314 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 15:32:57,030 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 15:32:57,056 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 15:33:04,186 - framework.Browser -INFO - Chrome Browser is Started 16638730
+2020-05-29 15:34:22,856 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 15:34:22,857 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 15:34:24,662 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-29 15:34:24,667 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 15:34:29,687 - framework.Browser -INFO - Chrome Browser is Started 23315535
+2020-05-29 15:35:39,281 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-29 15:35:39,281 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 15:35:40,339 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-29 15:35:40,344 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 15:35:45,681 - framework.Browser -INFO - Chrome Browser is Started 30082251
+2020-05-29 15:37:01,941 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-29 15:37:01,942 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 15:38:22,106 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 15:38:22,109 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 15:38:23,952 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 15:38:23,968 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 15:38:36,287 - framework.Browser -INFO - Chrome Browser is Started 16638730
+2020-05-29 15:39:53,072 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 15:39:53,075 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 15:39:54,896 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-29 15:39:54,897 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 15:40:01,392 - framework.Browser -INFO - Chrome Browser is Started 23315535
+2020-05-29 15:41:38,304 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-29 15:41:38,305 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-29 15:41:40,376 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-29 15:41:40,381 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 15:41:49,324 - framework.Browser -INFO - Chrome Browser is Started 11863993
+2020-05-29 15:43:07,431 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-29 15:43:07,444 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 15:45:05,386 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-29 15:45:05,389 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-29 15:45:06,659 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-29 15:45:06,679 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 15:45:14,321 - framework.Browser -INFO - Chrome Browser is Started 16638730
+2020-05-29 15:46:33,054 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-29 15:46:33,054 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 15:46:34,533 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-29 15:46:34,536 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 15:46:40,695 - framework.Browser -INFO - Chrome Browser is Started 23315535
+2020-05-29 15:48:24,549 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-29 15:48:24,549 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-29 15:48:25,885 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-29 15:48:25,888 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-29 15:48:31,211 - framework.Browser -INFO - Chrome Browser is Started 30038279
+2020-05-29 15:49:47,176 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-29 15:49:47,177 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 21:11:52,642 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 21:11:52,661 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 21:11:53,520 - baseinit.Base -INFO - Scenario Started: DMR core Health Check with client admin
+2020-05-30 21:11:53,536 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 21:12:16,839 - framework.Browser -INFO - Chrome Browser is Started 27736125
+2020-05-30 21:13:49,413 - baseinit.Base -INFO - Scenario Completed: DMR core Health Check with client admin
+2020-05-30 21:13:49,437 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-30 21:13:51,494 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-30 21:13:51,502 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 21:13:57,173 - framework.Browser -INFO - Chrome Browser is Started 17976617
+2020-05-30 21:15:55,312 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-30 21:15:55,332 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 21:15:58,829 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-30 21:15:58,836 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 21:16:04,080 - framework.Browser -INFO - Chrome Browser is Started 24490264
+2020-05-30 21:17:31,427 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-30 21:17:31,428 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 21:21:44,088 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 21:21:44,135 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 21:21:52,351 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 21:21:52,494 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 21:22:10,568 - framework.Browser -INFO - Chrome Browser is Started 1548449
+2020-05-30 21:23:46,135 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 21:23:46,145 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 21:23:47,512 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 21:23:47,543 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 21:23:56,885 - framework.Browser -INFO - Chrome Browser is Started 19936408
+2020-05-30 21:25:20,953 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-30 21:25:20,972 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-30 21:25:21,952 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-30 21:25:21,956 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 21:25:26,808 - framework.Browser -INFO - Chrome Browser is Started 2810283
+2020-05-30 21:27:20,757 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-30 21:27:20,757 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 21:27:24,730 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-30 21:27:24,732 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 21:27:30,214 - framework.Browser -INFO - Chrome Browser is Started 2504460
+2020-05-30 21:28:54,190 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-30 21:28:54,191 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 22:11:46,837 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 22:11:46,841 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 22:11:48,694 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 22:11:48,712 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 22:12:09,820 - framework.Browser -INFO - Chrome Browser is Started 4491252
+2020-05-30 22:13:55,725 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 22:13:55,729 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 22:13:56,733 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 22:13:56,762 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 22:14:04,323 - framework.Browser -INFO - Chrome Browser is Started 1793456
+2020-05-30 22:15:53,638 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-30 22:15:53,658 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-30 22:15:54,728 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-30 22:15:54,730 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 22:15:59,287 - framework.Browser -INFO - Chrome Browser is Started 7385410
+2020-05-30 22:17:44,171 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-30 22:17:44,175 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 22:17:48,268 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-30 22:17:48,271 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 22:17:53,052 - framework.Browser -INFO - Chrome Browser is Started 30312644
+2020-05-30 22:19:09,064 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-30 22:19:09,068 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 22:32:49,842 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 22:32:49,859 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 22:32:50,863 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 22:32:50,893 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 22:33:06,823 - framework.Browser -INFO - Chrome Browser is Started 4491252
+2020-05-30 22:35:37,991 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-30 22:35:37,991 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-30 22:35:38,872 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-30 22:35:38,874 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 22:35:43,810 - framework.Browser -INFO - Chrome Browser is Started 5895402
+2020-05-30 22:37:13,835 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-30 22:37:13,835 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-30 22:37:14,807 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-30 22:37:14,814 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 22:37:19,414 - framework.Browser -INFO - Chrome Browser is Started 15474970
+2020-05-30 22:38:36,137 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-30 22:38:36,142 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 22:57:16,931 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 22:57:17,143 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 22:57:20,447 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 22:57:20,478 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 22:57:50,167 - framework.Browser -INFO - Chrome Browser is Started 12512183
+2020-05-30 22:59:00,602 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-30 22:59:00,603 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 22:59:05,344 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-30 22:59:05,353 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 22:59:11,229 - framework.Browser -INFO - Chrome Browser is Started 9629406
+2020-05-30 23:00:42,929 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-30 23:00:42,929 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-30 23:00:45,839 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-30 23:00:45,847 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:00:51,840 - framework.Browser -INFO - Chrome Browser is Started 27429255
+2020-05-30 23:02:08,901 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-30 23:02:08,903 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:12:01,524 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 23:12:01,527 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 23:12:02,125 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 23:12:02,128 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:12:19,366 - framework.Browser -INFO - Chrome Browser is Started 12512183
+2020-05-30 23:13:26,108 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-30 23:13:26,109 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:13:29,540 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-30 23:13:29,544 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:13:35,595 - framework.Browser -INFO - Chrome Browser is Started 21390211
+2020-05-30 23:15:11,538 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-30 23:15:11,538 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-30 23:15:12,672 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-30 23:15:12,675 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:15:18,831 - framework.Browser -INFO - Chrome Browser is Started 25102647
+2020-05-30 23:17:22,175 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 23:17:22,178 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 23:17:22,768 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 23:17:22,770 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:17:35,898 - framework.Browser -INFO - Chrome Browser is Started 12512183
+2020-05-30 23:18:44,420 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-30 23:18:44,421 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:18:46,972 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-30 23:18:46,979 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:18:52,958 - framework.Browser -INFO - Chrome Browser is Started 26374381
+2020-05-30 23:20:47,541 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-30 23:20:47,541 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:20:51,874 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-30 23:20:51,898 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:20:56,788 - framework.Browser -INFO - Chrome Browser is Started 16416927
+2020-05-30 23:22:15,330 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-30 23:22:15,331 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:25:49,981 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 23:25:49,985 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 23:25:50,735 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 23:25:50,737 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:25:59,935 - framework.Browser -INFO - Chrome Browser is Started 4491252
+2020-05-30 23:27:07,422 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-30 23:27:07,423 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:27:10,627 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-30 23:27:10,630 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:27:16,330 - framework.Browser -INFO - Chrome Browser is Started 19253765
+2020-05-30 23:29:11,425 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-30 23:29:11,425 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:29:13,911 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-30 23:29:13,917 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:29:18,115 - framework.Browser -INFO - Chrome Browser is Started 3246786
+2020-05-30 23:30:35,847 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-30 23:30:35,849 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:33:17,527 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 23:33:17,530 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 23:33:18,836 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 23:33:18,839 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:33:50,258 - framework.Browser -INFO - Chrome Browser is Started 15862158
+2020-05-30 23:35:00,947 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-30 23:35:00,947 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:37:12,499 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 23:37:12,505 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 23:37:13,693 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 23:37:14,464 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:38:09,744 - framework.Browser -INFO - Chrome Browser is Started 2003382
+2020-05-30 23:39:40,863 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-30 23:39:40,863 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:42:18,360 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 23:42:18,464 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 23:42:23,464 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 23:42:23,612 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:42:57,754 - framework.Browser -INFO - Chrome Browser is Started 27821079
+2020-05-30 23:44:33,820 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-30 23:44:33,820 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:51:44,530 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-30 23:51:44,534 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-30 23:51:45,290 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-30 23:51:45,293 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:52:50,576 - framework.Browser -INFO - Chrome Browser is Started 4491252
+2020-05-30 23:54:36,637 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-30 23:54:36,678 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:54:45,657 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-30 23:54:45,665 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:54:54,329 - framework.Browser -INFO - Chrome Browser is Started 9519241
+2020-05-30 23:56:49,521 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-30 23:56:49,522 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-30 23:57:28,657 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-30 23:57:28,664 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-30 23:57:39,340 - framework.Browser -INFO - Chrome Browser is Started 20901256
+2020-05-30 23:58:59,192 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-30 23:58:59,319 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 00:05:10,161 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 00:05:10,188 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 00:05:13,631 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 00:05:13,727 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 00:05:39,939 - framework.Browser -INFO - Chrome Browser is Started 1793456
+2020-05-31 00:06:52,848 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 00:06:52,937 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 00:07:02,345 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-31 00:07:02,351 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 00:07:11,466 - framework.Browser -INFO - Chrome Browser is Started 3668350
+2020-05-31 00:08:31,577 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-31 00:08:31,594 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 00:08:32,555 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-31 00:08:32,559 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 00:08:37,632 - framework.Browser -INFO - Chrome Browser is Started 17010583
+2020-05-31 00:09:56,703 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-31 00:09:56,733 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 00:13:36,788 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 00:13:36,791 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 00:13:37,535 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 00:13:37,537 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 00:13:49,689 - framework.Browser -INFO - Chrome Browser is Started 33445157
+2020-05-31 00:14:56,626 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 00:14:56,627 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 00:14:57,538 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-31 00:14:57,540 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 00:15:01,780 - framework.Browser -INFO - Chrome Browser is Started 12881424
+2020-05-31 00:16:57,418 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-31 00:16:57,419 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 00:17:00,953 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-31 00:17:00,957 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 00:17:07,921 - framework.Browser -INFO - Chrome Browser is Started 994434
+2020-05-31 00:18:26,062 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-31 00:18:26,063 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 00:26:19,760 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 00:26:19,802 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 00:26:23,750 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 00:26:23,777 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 00:26:48,517 - framework.Browser -INFO - Chrome Browser is Started 1793456
+2020-05-31 00:28:40,374 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 00:28:40,403 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 00:28:55,104 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-31 00:28:55,112 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 00:29:05,673 - framework.Browser -INFO - Chrome Browser is Started 18145084
+2020-05-31 00:31:13,281 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-31 00:31:13,383 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 00:32:06,297 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-31 00:32:06,304 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 00:32:22,591 - framework.Browser -INFO - Chrome Browser is Started 12838043
+2020-05-31 00:33:45,204 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-31 00:33:45,205 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 00:54:30,323 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 00:54:30,347 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 00:54:30,890 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 00:54:30,893 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 00:54:52,875 - framework.Browser -INFO - Chrome Browser is Started 12512183
+2020-05-31 00:55:57,968 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 00:55:57,969 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 00:55:59,437 - baseinit.Base -INFO - Scenario Started: login with mail user
+2020-05-31 00:55:59,444 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 00:56:03,749 - framework.Browser -INFO - Chrome Browser is Started 3405261
+2020-05-31 00:57:59,672 - baseinit.Base -INFO - Scenario Completed: login with mail user
+2020-05-31 00:57:59,673 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 00:58:04,502 - baseinit.Base -INFO - Scenario Started: Login with client admin
+2020-05-31 00:58:04,504 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 00:58:10,624 - framework.Browser -INFO - Chrome Browser is Started 9516106
+2020-05-31 00:59:30,861 - baseinit.Base -INFO - Scenario Completed: Login with client admin
+2020-05-31 00:59:30,862 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 09:10:50,692 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 09:10:50,705 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 09:10:51,499 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 09:10:51,501 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 09:11:10,526 - framework.Browser -INFO - Chrome Browser is Started 17492387
+2020-05-31 09:13:15,984 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 09:13:16,041 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 09:21:48,041 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 09:21:48,062 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 09:21:48,870 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 09:21:48,873 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 09:22:06,294 - framework.Browser -INFO - Chrome Browser is Started 1979081
+2020-05-31 09:23:38,703 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 09:23:38,725 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 09:28:24,527 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 09:28:24,531 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 09:28:25,346 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 09:28:25,349 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 09:28:39,873 - framework.Browser -INFO - Chrome Browser is Started 12660995
+2020-05-31 09:30:06,159 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 09:30:06,160 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 09:34:32,677 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 09:34:32,681 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 09:34:33,509 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 09:34:33,512 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 09:34:42,180 - framework.Browser -INFO - Chrome Browser is Started 15862158
+2020-05-31 09:58:18,992 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 09:58:19,008 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 10:02:36,063 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 10:02:36,066 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 10:02:36,838 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 10:02:36,841 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 10:02:49,364 - framework.Browser -INFO - Chrome Browser is Started 15862158
+2020-05-31 10:04:09,790 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 10:04:09,791 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 10:13:34,889 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 10:13:34,928 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 10:13:35,501 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 10:13:35,503 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 10:13:45,539 - framework.Browser -INFO - Chrome Browser is Started 17492387
+2020-05-31 10:14:04,606 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 10:14:04,609 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 10:14:05,493 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 10:14:05,496 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 10:14:10,834 - framework.Browser -INFO - Chrome Browser is Started 27508049
+2020-05-31 10:15:26,981 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 10:15:26,981 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 10:16:30,316 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 10:16:30,319 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 10:16:30,978 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 10:16:30,981 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 10:16:49,163 - framework.Browser -INFO - Chrome Browser is Started 17492387
+2020-05-31 10:18:13,710 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 10:18:13,713 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 10:18:14,491 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 10:18:14,494 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 10:18:20,742 - framework.Browser -INFO - Chrome Browser is Started 27508049
+2020-05-31 10:19:44,182 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 10:19:44,183 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 10:26:01,290 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 10:26:01,294 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 10:26:02,083 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 10:26:02,086 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 10:26:26,658 - framework.Browser -INFO - Chrome Browser is Started 15862158
+2020-05-31 10:27:56,337 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 10:27:56,337 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 10:33:56,607 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 10:33:56,611 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 10:33:57,405 - baseinit.Base -INFO - Scenario Started: Health Check with client admin
+2020-05-31 10:33:57,407 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 10:34:05,942 - framework.Browser -INFO - Chrome Browser is Started 30983513
+2020-05-31 10:35:22,194 - baseinit.Base -INFO - Scenario Completed: Health Check with client admin
+2020-05-31 10:35:22,194 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 11:14:40,131 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 11:14:40,153 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 11:14:40,814 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-31 11:14:40,818 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 11:15:00,394 - framework.Browser -INFO - Chrome Browser is Started 16444040
+2020-05-31 11:15:33,422 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-31 11:15:33,422 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 11:15:35,118 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-31 11:15:35,121 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 11:15:43,835 - framework.Browser -INFO - Chrome Browser is Started 19325317
+2020-05-31 11:16:43,663 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-31 11:16:43,663 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 11:16:44,514 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-05-31 11:16:44,517 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 11:16:49,271 - framework.Browser -INFO - Chrome Browser is Started 22452613
+2020-05-31 11:18:01,323 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-05-31 11:18:01,323 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 21:34:10,763 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 21:34:10,779 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 21:34:53,847 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 21:34:53,851 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 21:34:54,852 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-31 21:34:54,885 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 21:35:20,178 - framework.Browser -INFO - Chrome Browser is Started 8892738
+2020-05-31 21:35:32,909 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-31 21:35:32,909 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 21:35:34,963 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-31 21:35:34,966 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 21:35:49,571 - framework.Browser -INFO - Chrome Browser is Started 12184323
+2020-05-31 21:35:55,810 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-31 21:35:55,810 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 21:35:57,102 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-05-31 21:35:57,103 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 21:36:01,707 - framework.Browser -INFO - Chrome Browser is Started 23667915
+2020-05-31 21:36:07,748 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-05-31 21:36:07,749 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-05-31 22:00:25,488 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 22:00:25,546 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 22:00:27,499 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-31 22:00:27,540 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 22:00:56,147 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-05-31 22:00:56,177 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-31 22:00:56,180 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 22:01:54,841 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 22:01:54,845 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 22:01:55,721 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-31 22:01:55,723 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 22:02:06,066 - framework.Browser -INFO - Chrome Browser is Started 16444040
+2020-05-31 22:02:35,811 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-31 22:02:35,811 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 22:02:38,064 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-31 22:02:38,067 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 22:02:46,945 - framework.Browser -INFO - Chrome Browser is Started 19230769
+2020-05-31 22:03:47,930 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-31 22:03:47,931 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 22:03:50,987 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-05-31 22:03:51,001 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 22:03:56,188 - framework.Browser -INFO - Chrome Browser is Started 22452613
+2020-05-31 22:05:05,965 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-05-31 22:05:05,966 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 22:11:48,790 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-05-31 22:11:48,841 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-05-31 22:11:50,441 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-05-31 22:11:50,459 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 22:12:07,410 - framework.Browser -INFO - Chrome Browser is Started 16444040
+2020-05-31 22:12:31,731 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-05-31 22:12:31,731 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 22:12:32,749 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-05-31 22:12:32,759 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 22:12:38,476 - framework.Browser -INFO - Chrome Browser is Started 2696050
+2020-05-31 22:13:36,411 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-05-31 22:13:36,411 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-05-31 22:13:37,726 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-05-31 22:13:37,733 - framework.Browser -INFO - Selected Browser is: chrome
+2020-05-31 22:13:44,655 - framework.Browser -INFO - Chrome Browser is Started 4135285
+2020-05-31 22:14:52,872 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-05-31 22:14:52,873 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-08 00:20:52,830 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-08 00:20:52,846 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-08 00:20:54,317 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-08 00:20:54,317 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-08 00:20:56,947 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-08 00:20:56,993 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2020-06-08 00:20:57,535 - io.github.bonigarcia.wdm.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/83.0.4103.39/chromedriver_win32.zip
+2020-06-08 00:20:57,988 - io.github.bonigarcia.wdm.Downloader -INFO - Extracting binary from compressed file chromedriver_win32.zip
+2020-06-08 00:20:58,160 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-08 00:21:02,789 - framework.Browser -INFO - Chrome Browser is Started 2122991287
+2020-06-08 00:21:17,614 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-06-08 00:21:17,614 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-08 00:21:18,330 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-08 00:21:18,331 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-08 00:21:18,346 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-08 00:21:18,358 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-08 00:21:20,609 - framework.Browser -INFO - Chrome Browser is Started 1123862502
+2020-06-19 08:13:26,182 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-19 08:13:26,197 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-19 08:13:27,507 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-19 08:13:27,513 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-19 08:13:29,683 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-19 08:13:29,715 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2020-06-19 08:13:30,337 - io.github.bonigarcia.wdm.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/83.0.4103.39/chromedriver_win32.zip
+2020-06-19 08:13:30,916 - io.github.bonigarcia.wdm.Downloader -INFO - Extracting binary from compressed file chromedriver_win32.zip
+2020-06-19 08:13:31,590 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-19 08:13:35,126 - framework.Browser -INFO - Chrome Browser is Started 2004687135
+2020-06-20 03:26:14,883 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-20 03:26:14,896 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-20 03:26:16,281 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-20 03:26:16,290 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-20 03:26:17,282 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-20 03:26:17,315 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-20 03:26:20,918 - framework.Browser -INFO - Chrome Browser is Started 640161448
+2020-06-21 00:32:48,299 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-21 00:32:48,310 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-21 00:32:49,708 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-21 00:32:49,713 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-21 00:32:51,746 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-21 00:32:51,781 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-21 00:32:55,187 - framework.Browser -INFO - Chrome Browser is Started 892231982
+2020-06-21 01:04:21,708 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-21 01:04:21,714 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-21 01:04:22,973 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-21 01:04:22,978 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-21 01:04:23,810 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-21 01:04:23,844 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-21 01:04:27,219 - framework.Browser -INFO - Chrome Browser is Started 1551496690
+2020-06-21 01:04:41,339 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-06-21 01:04:41,339 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-21 01:04:42,186 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-21 01:04:42,187 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-21 01:04:42,199 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-21 01:04:42,208 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-21 01:04:44,434 - framework.Browser -INFO - Chrome Browser is Started 982662959
+2020-06-21 01:05:20,493 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-06-21 01:05:20,493 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-21 01:05:21,350 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-21 01:05:21,351 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-21 01:05:21,361 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-21 01:05:21,367 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-21 01:05:23,550 - framework.Browser -INFO - Chrome Browser is Started 894869257
+2020-06-21 01:06:06,846 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-06-21 01:06:06,846 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-22 06:31:03,024 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 06:31:03,033 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 06:31:04,392 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 06:31:04,399 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 06:31:07,280 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-22 06:31:07,318 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-22 06:31:10,914 - framework.Browser -INFO - Chrome Browser is Started 172238154
+2020-06-22 06:31:26,267 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-06-22 06:31:26,268 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-22 06:31:27,007 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 06:31:27,012 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 06:31:27,035 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-22 06:31:27,045 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-22 06:31:29,368 - framework.Browser -INFO - Chrome Browser is Started 1697623960
+2020-06-22 06:32:06,833 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-06-22 06:32:06,834 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-22 06:32:07,573 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 06:32:07,575 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 06:32:07,589 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-22 06:32:07,598 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-22 06:32:09,940 - framework.Browser -INFO - Chrome Browser is Started 429367644
+2020-06-22 06:32:53,797 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-06-22 06:32:53,798 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-22 06:37:51,410 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 06:37:51,418 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 06:37:52,787 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 06:37:52,796 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 06:37:53,711 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-22 06:37:53,752 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-22 06:37:57,268 - framework.Browser -INFO - Chrome Browser is Started 369212470
+2020-06-22 06:38:11,969 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-06-22 06:38:11,970 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-22 06:38:12,668 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 06:38:12,669 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 06:38:12,685 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-22 06:38:12,692 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-22 06:38:14,965 - framework.Browser -INFO - Chrome Browser is Started 1569961375
+2020-06-22 06:38:52,254 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-06-22 06:38:52,255 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-22 06:38:52,980 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 06:38:52,982 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 06:38:53,000 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-22 06:38:53,009 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-22 06:38:55,271 - framework.Browser -INFO - Chrome Browser is Started 466517488
+2020-06-22 06:39:39,754 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-06-22 06:39:39,755 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-22 12:28:03,464 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 12:28:03,477 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 12:28:05,289 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 12:28:05,299 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 12:28:05,804 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 12:28:05,829 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 12:28:05,830 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 12:28:05,851 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 12:28:05,860 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 12:28:05,861 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 12:28:05,888 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 13:27:26,139 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 13:27:26,145 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 13:27:27,384 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 13:27:27,390 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 13:27:27,743 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 13:27:27,759 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 13:27:27,760 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 13:27:27,778 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 13:27:27,789 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 13:27:27,790 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 13:27:27,811 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 13:54:49,951 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 13:54:49,959 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 13:54:51,352 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 13:54:51,358 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 13:54:51,748 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 13:54:51,766 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 13:54:51,767 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 13:54:51,791 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 13:54:51,799 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 13:54:51,800 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 13:54:51,824 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 13:57:33,815 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 13:57:33,832 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 13:57:35,815 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 13:57:35,825 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 13:57:36,493 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 13:57:36,535 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 13:57:36,536 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 13:57:36,556 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 13:57:36,564 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 13:57:36,565 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 13:57:36,584 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 13:59:43,938 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 13:59:43,971 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 14:01:36,398 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 14:01:36,412 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 14:01:38,371 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 14:01:38,381 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:01:39,062 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:01:39,107 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 14:01:39,108 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:01:39,139 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:01:39,150 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 14:01:39,152 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:01:39,171 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:04:03,103 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 14:04:03,120 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 14:04:05,335 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 14:04:05,343 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:04:06,050 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:04:06,099 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 14:04:06,101 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:04:06,126 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:04:06,138 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 14:04:06,139 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:04:06,161 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:17:52,040 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 14:17:52,053 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 14:17:54,094 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 14:17:54,105 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:17:54,778 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:17:54,828 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 14:17:54,829 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:17:54,854 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:17:54,863 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 14:17:54,865 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:17:54,885 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:23:39,434 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 14:23:39,455 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 14:23:42,003 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 14:23:42,015 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:23:42,780 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:23:42,837 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 14:23:42,839 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:23:42,869 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:23:42,883 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 14:23:42,885 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:23:42,911 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:32:42,659 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 14:32:42,673 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 14:32:44,938 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 14:32:44,950 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:32:45,691 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:32:45,739 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 14:32:45,740 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:32:45,764 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:32:45,774 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 14:32:45,775 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:32:45,797 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:35:08,667 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 14:35:08,682 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 14:35:10,610 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 14:35:10,622 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:35:11,234 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:35:11,279 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 14:35:11,280 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:35:11,301 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:35:11,308 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 14:35:11,309 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:35:11,333 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:40:15,324 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 14:40:15,339 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 14:40:17,421 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 14:40:17,432 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:40:18,135 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:40:18,181 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 14:40:18,183 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:40:18,206 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:40:18,215 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 14:40:18,216 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:40:18,241 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:43:09,631 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 14:43:09,649 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 14:43:11,648 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 14:43:11,663 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:43:12,206 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:43:12,293 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 14:43:12,298 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:43:12,325 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:43:12,364 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 14:43:12,365 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:43:12,385 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:48:12,416 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 14:48:12,431 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 14:48:14,435 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 14:48:14,445 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:48:15,077 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:48:15,125 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 14:48:15,126 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:48:15,146 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:48:15,153 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 14:48:15,154 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:48:15,170 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:50:52,578 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 14:50:52,598 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 14:50:54,641 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 14:50:54,647 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:50:55,307 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:50:55,360 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 14:50:55,362 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:50:55,386 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 14:50:55,394 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 14:50:55,396 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 14:50:55,415 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:01:32,764 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 15:01:32,787 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 15:01:35,092 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 15:01:35,101 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:01:35,798 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:01:35,857 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 15:01:35,858 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:01:35,887 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:01:35,899 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 15:01:35,900 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:01:35,926 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:01:56,073 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 15:01:56,090 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 15:01:58,355 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 15:01:58,367 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:01:59,009 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:01:59,052 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 15:01:59,053 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:01:59,078 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:01:59,090 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 15:01:59,092 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:01:59,117 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:09:45,909 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 15:09:45,929 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 15:09:48,278 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 15:09:48,289 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:09:49,003 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:09:49,074 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 15:09:49,079 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:09:49,103 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:09:49,112 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 15:09:49,113 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:09:49,131 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:11:47,883 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 15:11:47,899 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 15:11:50,132 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 15:11:50,144 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:11:50,852 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:11:50,896 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 15:11:50,897 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:11:50,919 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:11:50,926 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 15:11:50,928 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:11:50,946 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:18:28,461 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 15:18:28,476 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 15:18:30,509 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 15:18:30,519 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:18:31,208 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:18:31,276 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 15:18:31,281 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:18:31,303 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:18:31,310 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 15:18:31,311 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:18:31,330 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:27:34,222 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 15:27:34,236 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 15:27:36,232 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 15:27:36,243 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:27:36,869 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:27:36,913 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 15:27:36,914 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:27:36,937 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:27:36,948 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 15:27:36,949 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:27:36,976 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:35:55,006 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 15:35:55,016 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 15:35:56,348 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 15:35:56,356 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:35:56,735 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:35:56,775 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 15:35:56,777 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:35:56,799 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:35:56,831 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 15:35:56,832 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:35:56,851 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:40:07,834 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 15:40:07,852 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 15:40:10,086 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 15:40:10,098 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:40:10,678 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:40:10,716 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 15:40:10,717 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:40:10,741 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:40:10,750 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 15:40:10,752 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:40:10,772 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:44:46,533 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 15:44:46,547 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 15:44:48,423 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 15:44:48,430 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:44:48,966 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:44:49,010 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 15:44:49,011 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:44:49,037 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:44:49,044 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 15:44:49,046 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:44:49,063 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:51:47,791 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 15:51:47,810 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 15:51:49,759 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 15:51:49,768 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:51:50,470 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:51:50,521 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 15:51:50,522 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:51:50,549 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:51:50,557 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 15:51:50,558 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:51:50,581 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:52:45,645 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 15:52:45,663 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 15:52:47,653 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 15:52:47,661 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:52:48,335 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:52:48,384 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 15:52:48,385 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:52:48,409 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:52:48,416 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 15:52:48,417 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:52:48,438 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:55:48,709 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 15:55:48,732 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 15:55:50,749 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 15:55:50,760 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:55:51,448 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:55:51,492 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 15:55:51,493 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:55:51,521 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 15:55:51,529 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 15:55:51,530 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 15:55:51,549 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 16:02:25,840 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 16:02:25,852 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 16:02:27,661 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 16:02:27,669 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 16:02:28,196 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 16:02:28,238 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 16:02:28,240 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 16:02:28,280 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 16:02:28,291 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 16:02:28,292 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 16:02:28,313 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 16:05:00,389 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-22 16:05:00,401 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-22 16:05:02,582 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-22 16:05:02,590 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 16:05:03,254 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 16:05:03,297 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-22 16:05:03,298 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 16:05:03,322 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-22 16:05:03,330 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-22 16:05:03,331 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-22 16:05:03,351 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-23 01:58:57,037 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-23 01:58:57,045 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-23 01:58:58,880 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-23 01:58:58,887 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 01:58:59,906 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 01:58:59,949 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 01:59:05,573 - framework.Browser -INFO - Chrome Browser is Started 2130677120
+2020-06-23 01:59:20,714 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-06-23 01:59:20,715 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 01:59:21,488 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-23 01:59:21,490 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 01:59:21,506 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 01:59:21,514 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 01:59:25,304 - framework.Browser -INFO - Chrome Browser is Started 832861068
+2020-06-23 02:00:03,349 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-06-23 02:00:03,350 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 02:00:04,081 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-23 02:00:04,084 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:00:04,101 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:00:04,110 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:00:08,169 - framework.Browser -INFO - Chrome Browser is Started 1818381218
+2020-06-23 02:00:53,837 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-06-23 02:00:53,838 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 02:06:10,427 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-23 02:06:10,434 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-23 02:06:12,027 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-23 02:06:12,034 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:06:12,989 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:06:13,032 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:06:18,337 - framework.Browser -INFO - Chrome Browser is Started 976401462
+2020-06-23 02:06:32,934 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-06-23 02:06:32,935 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 02:06:33,640 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-23 02:06:33,641 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:06:33,703 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:06:33,710 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:06:37,547 - framework.Browser -INFO - Chrome Browser is Started 97722756
+2020-06-23 02:07:07,097 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-06-23 02:07:07,098 - baseinit.Base -INFO - Scenario Status is: FAILED
+2020-06-23 02:07:07,816 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-23 02:07:07,818 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:07:07,829 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:07:07,835 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:07:11,381 - framework.Browser -INFO - Chrome Browser is Started 1224065195
+2020-06-23 02:07:54,900 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-06-23 02:07:54,901 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 02:29:16,490 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-23 02:29:16,497 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-23 02:29:18,054 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-23 02:29:18,062 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:29:19,490 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:29:19,536 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:29:25,138 - framework.Browser -INFO - Chrome Browser is Started 36376278
+2020-06-23 02:29:40,546 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-06-23 02:29:40,546 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 02:29:41,254 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-23 02:29:41,255 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:29:41,270 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:29:41,277 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:29:45,031 - framework.Browser -INFO - Chrome Browser is Started 642677713
+2020-06-23 02:30:22,533 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-06-23 02:30:22,534 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 02:30:23,265 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-23 02:30:23,266 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:30:23,286 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:30:23,294 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:30:27,019 - framework.Browser -INFO - Chrome Browser is Started 340981261
+2020-06-23 02:31:11,295 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-06-23 02:31:11,296 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 02:37:46,427 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-23 02:37:46,436 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-23 02:37:47,789 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-23 02:37:47,795 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:37:48,785 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:37:48,816 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:37:54,011 - framework.Browser -INFO - Chrome Browser is Started 393140942
+2020-06-23 02:38:08,779 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-06-23 02:38:08,779 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 02:38:09,528 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-23 02:38:09,529 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:38:09,543 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:38:09,551 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:38:13,369 - framework.Browser -INFO - Chrome Browser is Started 1237978482
+2020-06-23 02:38:51,508 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-06-23 02:38:51,510 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 02:38:52,270 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-23 02:38:52,272 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:38:52,285 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:38:52,292 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:38:56,126 - framework.Browser -INFO - Chrome Browser is Started 1990384804
+2020-06-23 02:39:41,050 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-06-23 02:39:41,050 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 02:43:01,396 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-23 02:43:01,404 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-23 02:43:02,842 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-23 02:43:02,849 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:43:03,881 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:43:03,925 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:43:09,170 - framework.Browser -INFO - Chrome Browser is Started 1262100487
+2020-06-23 02:43:23,917 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-06-23 02:43:23,918 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 02:43:24,637 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-23 02:43:24,638 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:43:24,676 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:43:24,685 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:43:28,216 - framework.Browser -INFO - Chrome Browser is Started 880258209
+2020-06-23 02:44:05,811 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-06-23 02:44:05,812 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-23 02:44:06,583 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-23 02:44:06,585 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-23 02:44:06,601 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-23 02:44:06,610 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-23 02:44:10,353 - framework.Browser -INFO - Chrome Browser is Started 1960324593
+2020-06-23 02:44:55,220 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-06-23 02:44:55,221 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-24 00:45:33,417 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-24 00:45:33,426 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-24 00:45:34,930 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-24 00:45:34,936 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-24 00:45:37,042 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-24 00:45:37,090 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-24 00:45:42,790 - framework.Browser -INFO - Chrome Browser is Started 1440037887
+2020-06-24 00:45:58,624 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-06-24 00:45:58,625 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-24 00:45:59,383 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-24 00:45:59,384 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-24 00:45:59,395 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-24 00:45:59,401 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-24 00:46:02,887 - framework.Browser -INFO - Chrome Browser is Started 596823414
+2020-06-24 00:46:46,425 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-06-24 00:46:46,426 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-24 00:46:47,144 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-24 00:46:47,145 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-24 00:46:47,159 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-24 00:46:47,167 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-24 00:46:50,706 - framework.Browser -INFO - Chrome Browser is Started 79437601
+2020-06-24 00:47:35,654 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-06-24 00:47:35,655 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-24 02:40:37,567 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-24 02:40:37,586 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-24 02:40:39,743 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-24 02:40:39,752 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-24 02:40:40,407 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-24 02:40:40,446 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-24 02:40:40,449 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-24 02:40:40,472 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-24 02:40:40,481 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-24 02:40:40,482 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-24 02:40:40,499 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-26 06:34:49,438 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-26 06:34:49,456 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-26 06:34:51,338 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-26 06:34:51,350 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 06:34:52,110 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-26 06:34:52,158 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-26 06:34:52,159 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 06:34:52,187 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-26 06:34:52,197 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-26 06:34:52,198 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 06:34:52,218 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-26 06:36:10,181 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-26 06:36:10,198 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-26 06:36:11,917 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-26 06:36:11,925 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 06:36:12,583 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-26 06:36:12,626 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-26 06:36:12,627 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 06:36:12,651 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-26 06:36:12,659 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-26 06:36:12,660 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 06:36:12,681 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-26 06:37:04,817 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-26 06:37:04,831 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-26 06:37:06,406 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-26 06:37:06,413 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 06:37:07,044 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-26 06:37:07,080 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-26 06:37:07,082 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 06:37:07,107 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-26 06:37:07,114 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-26 06:37:07,115 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 06:37:07,136 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-06-26 07:01:55,034 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-26 07:01:55,041 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-26 07:01:56,671 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-26 07:01:56,678 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 07:01:57,725 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-26 07:01:57,756 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-26 07:02:02,990 - framework.Browser -INFO - Chrome Browser is Started 1041236475
+2020-06-26 07:02:18,426 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-06-26 07:02:18,426 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-26 07:02:19,148 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-26 07:02:19,149 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 07:02:19,160 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-26 07:02:19,166 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-26 07:02:22,810 - framework.Browser -INFO - Chrome Browser is Started 861062839
+2020-06-26 07:03:00,558 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-06-26 07:03:00,559 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-26 07:03:01,262 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-26 07:03:01,264 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 07:03:01,276 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-26 07:03:01,282 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-26 07:03:04,859 - framework.Browser -INFO - Chrome Browser is Started 258563519
+2020-06-26 07:03:49,391 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-06-26 07:03:49,393 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-26 07:37:39,678 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-06-26 07:37:39,686 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-06-26 07:37:41,343 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-06-26 07:37:41,351 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 07:37:42,423 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-26 07:37:42,462 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-26 07:37:48,061 - framework.Browser -INFO - Chrome Browser is Started 1967333426
+2020-06-26 07:38:03,368 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-06-26 07:38:03,369 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-26 07:38:04,077 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-06-26 07:38:04,078 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 07:38:04,089 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-26 07:38:04,096 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-26 07:38:07,686 - framework.Browser -INFO - Chrome Browser is Started 1228342954
+2020-06-26 07:38:45,089 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-06-26 07:38:45,089 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-06-26 07:38:45,807 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-06-26 07:38:45,808 - framework.Browser -INFO - Selected Browser is: chrome
+2020-06-26 07:38:45,820 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-06-26 07:38:45,826 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-06-26 07:38:49,356 - framework.Browser -INFO - Chrome Browser is Started 130643377
+2020-06-26 07:39:34,420 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-06-26 07:39:34,421 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-07-06 08:14:01,512 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-07-06 08:14:01,530 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-07-06 08:14:03,180 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-07-06 08:14:03,191 - framework.Browser -INFO - Selected Browser is: chrome
+2020-07-06 08:14:05,881 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-07-06 08:14:05,925 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-07-06 08:14:08,401 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-07-06 08:14:08,425 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-07-06 08:14:08,430 - framework.Browser -INFO - Selected Browser is: chrome
+2020-07-06 08:14:08,445 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-07-06 08:14:08,453 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-07-06 08:14:09,066 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-07-06 08:14:09,079 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-07-06 08:14:09,080 - framework.Browser -INFO - Selected Browser is: chrome
+2020-07-06 08:14:09,097 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-07-06 08:14:09,108 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-07-06 08:14:09,725 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-07-06 08:16:16,681 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-07-06 08:16:16,699 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-07-06 08:16:18,073 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-07-06 08:16:18,083 - framework.Browser -INFO - Selected Browser is: chrome
+2020-07-06 08:16:19,337 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-07-06 08:16:21,424 - framework.Browser -INFO - Exception has Occured while taking screenshot
+2020-07-06 08:18:57,980 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-07-06 08:18:57,990 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-07-06 08:18:59,254 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-07-06 08:18:59,264 - framework.Browser -INFO - Selected Browser is: chrome
+2020-07-06 08:19:00,579 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-07-06 08:19:00,613 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-07-06 08:19:05,297 - framework.Browser -INFO - Chrome Browser is Started 2107706203
+2020-07-14 07:16:24,882 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-07-14 07:16:24,892 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-07-14 07:16:26,205 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-07-14 07:16:26,228 - framework.Browser -INFO - Selected Browser is: chrome
+2020-07-14 07:16:27,416 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-07-14 07:16:27,450 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-07-14 07:16:32,092 - framework.Browser -INFO - Chrome Browser is Started 2107706203
+2020-07-14 07:16:46,927 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-07-14 07:16:46,928 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-07-14 07:16:47,631 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-07-14 07:16:47,632 - framework.Browser -INFO - Selected Browser is: chrome
+2020-07-14 07:16:47,646 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-07-14 07:16:47,653 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-07-14 07:16:51,060 - framework.Browser -INFO - Chrome Browser is Started 521746054
+2020-07-14 07:17:27,727 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-07-14 07:17:27,727 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-07-14 07:17:28,454 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-07-14 07:17:28,455 - framework.Browser -INFO - Selected Browser is: chrome
+2020-07-14 07:17:28,470 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-07-14 07:17:28,476 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-07-14 07:17:31,850 - framework.Browser -INFO - Chrome Browser is Started 674233333
+2020-07-14 07:18:15,633 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-07-14 07:18:15,633 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-07-14 09:43:35,046 - baseinit.Base -INFO -  featureFilesPath: FeatureFiles
+2020-07-14 09:43:35,056 - baseinit.Base -INFO -  Value: FeatureFiles
+2020-07-14 09:43:36,318 - baseinit.Base -INFO - Scenario Started: Tomcat service (URL)
+2020-07-14 09:43:36,326 - framework.Browser -INFO - Selected Browser is: chrome
+2020-07-14 09:43:37,563 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-07-14 09:43:37,599 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-07-14 09:43:42,799 - framework.Browser -INFO - Chrome Browser is Started 2107706203
+2020-07-14 09:43:58,076 - baseinit.Base -INFO - Scenario Completed: Tomcat service (URL)
+2020-07-14 09:43:58,077 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-07-14 09:43:58,801 - baseinit.Base -INFO - Scenario Started: ExelaAuth service (Login)
+2020-07-14 09:43:58,803 - framework.Browser -INFO - Selected Browser is: chrome
+2020-07-14 09:43:58,820 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-07-14 09:43:58,830 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-07-14 09:44:02,682 - framework.Browser -INFO - Chrome Browser is Started 521746054
+2020-07-14 09:44:39,859 - baseinit.Base -INFO - Scenario Completed: ExelaAuth service (Login)
+2020-07-14 09:44:39,859 - baseinit.Base -INFO - Scenario Status is: PASSED
+2020-07-14 09:44:40,596 - baseinit.Base -INFO - Scenario Started: eFA service (Download)
+2020-07-14 09:44:40,597 - framework.Browser -INFO - Selected Browser is: chrome
+2020-07-14 09:44:40,610 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine)
+2020-07-14 09:44:40,618 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\SKaliyamoorthy\.m2\repository\webdriver\chromedriver\win32\83.0.4103.39\chromedriver.exe
+2020-07-14 09:44:44,081 - framework.Browser -INFO - Chrome Browser is Started 674233333
+2020-07-14 09:45:28,284 - baseinit.Base -INFO - Scenario Completed: eFA service (Download)
+2020-07-14 09:45:28,285 - baseinit.Base -INFO - Scenario Status is: PASSED
