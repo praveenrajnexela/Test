@@ -122,6 +122,8 @@ public class Base {
 		 {
 			 if (SystemUtils.IS_OS_WINDOWS)
 			    { 
+				 	System.out.println("Chrome Process id: "+Browser.chromeProcessID);
+				 	System.out.println("Chrome driver Process id: "+Browser.chromeDriverProcessID);
 				 	Runtime.getRuntime().exec("taskkill /F /PID "+Browser.chromeDriverProcessID);
 				 	Runtime.getRuntime().exec("taskkill /F /PID "+Browser.chromeProcessID);
 				 	
